@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="org.slf4j.ILoggerFactory org.slf4j.Logger getLogger(java.lang.String)">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.ILoggerFactory org.slf4j.Logger getLogger(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.IMarkerFactory org.slf4j.Marker getMarker(java.lang.String)">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.IMarkerFactory org.slf4j.Marker getMarker(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.Logger java.lang.String getName()">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.LoggerFactory org.slf4j.ILoggerFactory getILoggerFactory()">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.LoggerFactory org.slf4j.Logger getLogger(java.lang.String)">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.LoggerFactory org.slf4j.Logger getLogger(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MDC java.lang.String get(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MDC org.slf4j.spi.MDCAdapter getMDCAdapter()">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MDC void put(java.lang.String, java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MDC void remove(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MDC void setContextMap(java.util.Map) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.Marker boolean contains(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.Marker boolean contains(org.slf4j.Marker) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.Marker java.lang.String getName()">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.Marker java.util.Iterator iterator()">
+    <annotation name="jet.runtime.typeinfo.KotlinSignature">
+      <val name="value" val="&quot;fun iterator() : Iterator&lt;Any?&gt;&quot;" />
+    </annotation>
+  </item>
+  <item name="org.slf4j.Marker void add(org.slf4j.Marker) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MarkerFactory org.slf4j.IMarkerFactory getIMarkerFactory()">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MarkerFactory org.slf4j.Marker getDetachedMarker(java.lang.String)">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MarkerFactory org.slf4j.Marker getDetachedMarker(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MarkerFactory org.slf4j.Marker getMarker(java.lang.String)">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+  <item name="org.slf4j.MarkerFactory org.slf4j.Marker getMarker(java.lang.String) 0">
+    <annotation name="org.jetbrains.annotations.NotNull" />
+  </item>
+</root>
+
