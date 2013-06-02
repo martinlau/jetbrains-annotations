@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item name="org.slf4j.spi.LoggerFactoryBinder java.lang.String getLoggerFactoryClassStr()">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.LoggerFactoryBinder org.slf4j.ILoggerFactory getLoggerFactory()">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter java.lang.String get(java.lang.String) 0">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter java.util.Map getCopyOfContextMap()">
+        <annotation name="jet.runtime.typeinfo.KotlinSignature">
+            <val name="value" val="&quot;fun getCopyOfContextMap() : Map&lt;String, String?&gt;?&quot;"/>
+        </annotation>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter void put(java.lang.String, java.lang.String) 0">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter void remove(java.lang.String) 0">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter void setContextMap(java.util.Map)">
+        <annotation name="jet.runtime.typeinfo.KotlinSignature">
+            <val name="value" val="&quot;fun setContextMap(contextMap : Map&lt;String, String?&gt;) : Unit&quot;"/>
+        </annotation>
+    </item>
+    <item name="org.slf4j.spi.MDCAdapter void setContextMap(java.util.Map) 0">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MarkerFactoryBinder java.lang.String getMarkerFactoryClassStr()">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+    <item name="org.slf4j.spi.MarkerFactoryBinder org.slf4j.IMarkerFactory getMarkerFactory()">
+        <annotation name="org.jetbrains.annotations.NotNull"/>
+    </item>
+</root>
+
